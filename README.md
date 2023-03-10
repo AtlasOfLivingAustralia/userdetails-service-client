@@ -1,3 +1,5 @@
+# THIS REPO IS NOW ARCHIVED.  THE ACTIVE PLUGIN DEVELOPMENT HAPPENS IN [ala-security-project](https://github.com/AtlasOfLivingAustralia/ala-security-project)
+
 # userdetails-service-client [![Build Status](https://travis-ci.org/AtlasOfLivingAustralia/userdetails-service-client.svg?branch=master)](https://travis-ci.org/AtlasOfLivingAustralia/userdetails-service-client)
 
 A Java client for the [UserDetails](https://github.com/AtlasOfLivingAustralia/userdetails) webservices.
